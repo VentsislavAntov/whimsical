@@ -1,3 +1,6 @@
+# Description
+
+A simple logo with hover animation. Deployed on GitHub Pages: https://ventsislavantov.github.io/whimsical/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
