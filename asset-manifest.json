@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/whimsical/static/css/main.073c9b0a.css",
-    "main.js": "/whimsical/static/js/main.0b91a676.js",
+    "main.css": "/whimsical/static/css/main.727ecc02.css",
+    "main.js": "/whimsical/static/js/main.c3583560.js",
     "static/js/787.b928aa4b.chunk.js": "/whimsical/static/js/787.b928aa4b.chunk.js",
-    "static/media/logo.svg": "/whimsical/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/whimsical/index.html",
-    "main.073c9b0a.css.map": "/whimsical/static/css/main.073c9b0a.css.map",
-    "main.0b91a676.js.map": "/whimsical/static/js/main.0b91a676.js.map",
+    "main.727ecc02.css.map": "/whimsical/static/css/main.727ecc02.css.map",
+    "main.c3583560.js.map": "/whimsical/static/js/main.c3583560.js.map",
     "787.b928aa4b.chunk.js.map": "/whimsical/static/js/787.b928aa4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0b91a676.js"
+    "static/css/main.727ecc02.css",
+    "static/js/main.c3583560.js"
   ]
 }
